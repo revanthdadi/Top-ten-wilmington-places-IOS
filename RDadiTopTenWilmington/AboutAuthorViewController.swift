@@ -7,11 +7,6 @@
 //
 /*
  Author:        Revanth Reddy Dadi
- Your Z-ID:     Z1823815
- Course:        CSCI 521, FALL 2018
- Instructor:    Professor Kai Rush
- T.A:           Rajarshi sen
- Due Date:      Monday, 10/15/2018, 11:59 PM
  
  About application: This application is midterm exam project. This application displays the top ten attractions, hotels and restaurants of Wilmington, North Carolina with more details about each one. The application contains 7 views and 2 controllers. The first view of the application will have buttons for attractions, hotels and restaurants. When one of the button is pressed then a table view will open with details. When one of the table view row is selected then detail view loads up and displays more details on the selected row. There are two more buttons on detail view where one is about the website of selected destination, another button is to make a phone call to the appropriate destination management. The initial view also has a info light button which when pressed will load about app view, this view contains details about the app and a button to send an email feedback about the app and other button to view the local webpage about the author of the application.
  
