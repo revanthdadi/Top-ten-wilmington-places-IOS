@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Staybridge Suites</string>
+		<key>SubName</key>
+		<string>Staybridge Suites</string>
+		<key>Class</key>
+		<string>4 - star hotel</string>
+		<key>Rating</key>
+		<string>4.5 google rating</string>
+		<key>Address</key>
+		<string>5010 New Centre Dr, Wilmington</string>
+		<key>Phone</key>
+		<string>1(910)202-8500</string>
+		<key>Website</key>
+		<string>https://www.ihg.com/staybridge/hotels/us/en/reservation</string>
+		<key>Advantages</key>
+		<string>Free Wi-Fi Free Breakfast</string>
+		<key>Latitude</key>
+		<string>34.2399498</string>
+		<key>Longitude</key>
+		<string>-77.8779584</string>
+		<key>CellImage</key>
+		<string>staybridge cell.jpeg</string>
+		<key>Image</key>
+		<string>staybridge.jpeg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>SpringHill Suites by Marriott</string>
+		<key>SubName</key>
+		<string>SpringHill Suites</string>
+		<key>Class</key>
+		<string>3 - star hotel</string>
+		<key>Rating</key>
+		<string>4.7 google rating</string>
+		<key>Address</key>
+		<string>1014 Ashes Dr, Wilmington</string>
+		<key>Phone</key>
+		<string>1(910)239-9975</string>
+		<key>Website</key>
+		<string>https://www.marriott.com/hotels/travel/ilmsh-springhill-suites-wilmington-mayfaire/</string>
+		<key>Advantages</key>
+		<string>Free Wi-Fi Free Breakfast</string>
+		<key>Latitude</key>
+		<string>34.2404344</string>
+		<key>Longitude</key>
+		<string>-77.8268804</string>
+		<key>CellImage</key>
+		<string>Springhill suites cell.jpg</string>
+		<key>Image</key>
+		<string>Springhill suites.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Stemmerman’s Inn</string>
+		<key>SubName</key>
+		<string>Stemmerman’s Inn</string>
+		<key>Class</key>
+		<string>3 - star hotel</string>
+		<key>Rating</key>
+		<string>4.7 google rating</string>
+		<key>Address</key>
+		<string>130 S Front St, Wilmington</string>
+		<key>Phone</key>
+		<string>1(910)763-7776</string>
+		<key>Website</key>
+		<string>https://www.yelp.com/biz/stemmermans-inn-wilmington</string>
+		<key>Advantages</key>
+		<string>Free Wi-fi available</string>
+		<key>Latitude</key>
+		<string>34.2330794</string>
+		<key>Longitude</key>
+		<string>-77.9486592</string>
+		<key>CellImage</key>
+		<string>Stemmerman cell.jpg</string>
+		<key>Image</key>
+		<string>Stemmerman.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Homewood Suites by Hilton Wilmington</string>
+		<key>SubName</key>
+		<string>Homewood Suites</string>
+		<key>Class</key>
+		<string>3 - star hotel</string>
+		<key>Rating</key>
+		<string>4.6 google rating</string>
+		<key>Address</key>
+		<string>6732 Swan Mill Rd, Wilmington</string>
+		<key>Phone</key>
+		<string>1(910)791-7272</string>
+		<key>Website</key>
+		<string>https://www.hilton.com/en/homewood/</string>
+		<key>Advantages</key>
+		<string>Free Wi-Fi Free Breakfast</string>
+		<key>Latitude</key>
+		<string>34.2383419</string>
+		<key>Longitude</key>
+		<string>-77.8329863</string>
+		<key>CellImage</key>
+		<string>Homewood suites cell.jpg</string>
+		<key>Image</key>
+		<string>Homewood suites.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Hotel Riverwalk</string>
+		<key>SubName</key>
+		<string>Hotel Riverwalk</string>
+		<key>Class</key>
+		<string>3 - star hotel</string>
+		<key>Rating</key>
+		<string>4.6 google rating</string>
+		<key>Address</key>
+		<string>117 S 2nd St, Wilmington</string>
+		<key>Phone</key>
+		<string>1(910)769-2500</string>
+		<key>Website</key>
+		<string>https://www.yelp.com/biz/hotel-riverwalk-wilmington</string>
+		<key>Advantages</key>
+		<string>Free Wi-Fi Free Breakfast</string>
+		<key>Latitude</key>
+		<string>34.2334636</string>
+		<key>Longitude</key>
+		<string>-77.9469675</string>
+		<key>CellImage</key>
+		<string>Hotel riverwalk cell.jpg</string>
+		<key>Image</key>
+		<string>Hotel riverwalk.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Hampton Inn Wilmington - University Area</string>
+		<key>SubName</key>
+		<string>Hampton Inn</string>
+		<key>Class</key>
+		<string>3 - star hotel</string>
+		<key>Rating</key>
+		<string>4.5 google rating</string>
+		<key>Address</key>
+		<string>124 Ild Eastwood Rd, Wilmington</string>
+		<key>Phone</key>
+		<string>1(910)791-9899</string>
+		<key>Website</key>
+		<string>https://hamptoninn3.hilton.com/en/index.html</string>
+		<key>Advantages</key>
+		<string>Free Wi-Fi Free Breakfast</string>
+		<key>Latitude</key>
+		<string>34.2444613</string>
+		<key>Longitude</key>
+		<string>-77.8653047</string>
+		<key>CellImage</key>
+		<string>Hampton university area cell.jpg</string>
+		<key>Image</key>
+		<string>Hampton university area.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Front Street Inn</string>
+		<key>SubName</key>
+		<string>Front Street Inn</string>
+		<key>Class</key>
+		<string>3 - star hotel</string>
+		<key>Rating</key>
+		<string>4.5 google rating</string>
+		<key>Address</key>
+		<string>215 S Front St, Wilmington</string>
+		<key>Phone</key>
+		<string>1(910)762-6442</string>
+		<key>Website</key>
+		<string>https://www.yelp.com/biz/front-street-inn-wilmington</string>
+		<key>Advantages</key>
+		<string>Free Wi-Fi Free breakfast</string>
+		<key>Latitude</key>
+		<string>34.2320961</string>
+		<key>Longitude</key>
+		<string>-77.9481208</string>
+		<key>CellImage</key>
+		<string>Front Inn cell.jpg</string>
+		<key>Image</key>
+		<string>Front Inn.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Holiday Inn Resort Wilmington</string>
+		<key>SubName</key>
+		<string>Holiday I Resort</string>
+		<key>Class</key>
+		<string>3 - star hotel</string>
+		<key>Rating</key>
+		<string>4.4 google rating</string>
+		<key>Address</key>
+		<string>1706 N Lumina Ave, Wrightsville Beach</string>
+		<key>Phone</key>
+		<string>1(910)256-2231</string>
+		<key>Website</key>
+		<string>https://www.ihg.com/holidayinnresorts/hotels/us/en/reservation</string>
+		<key>Advantages</key>
+		<string>Free Wi-Fi Available</string>
+		<key>Latitude</key>
+		<string>34.2202645</string>
+		<key>Longitude</key>
+		<string>-77.785718</string>
+		<key>CellImage</key>
+		<string>Holiday inn cell.jpg</string>
+		<key>Image</key>
+		<string>Holiday inn.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Courtyard by Marriott Downtown</string>
+		<key>SubName</key>
+		<string>Courtyard</string>
+		<key>Class</key>
+		<string>3 - star hotel</string>
+		<key>Rating</key>
+		<string>4.4 google rating</string>
+		<key>Address</key>
+		<string>229 N 2nd St, Wilmington</string>
+		<key>Phone</key>
+		<string>1(910)632-2900</string>
+		<key>Website</key>
+		<string>https://www.marriott.com/hotels/travel/ilmwc-courtyard-wilmington-downtown-historic-district/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2</string>
+		<key>Advantages</key>
+		<string>Free high - speed Internet</string>
+		<key>Latitude</key>
+		<string>34.2386899</string>
+		<key>Longitude</key>
+		<string>-77.9481819</string>
+		<key>CellImage</key>
+		<string>Courtyard cell.jpg</string>
+		<key>Image</key>
+		<string>Courtyard.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Hampton Inn Wilmington - Medical Park</string>
+		<key>SubName</key>
+		<string>Hampton Inn M.P</string>
+		<key>Class</key>
+		<string>3 - star hotel</string>
+		<key>Rating</key>
+		<string>4.4 google rating</string>
+		<key>Address</key>
+		<string>2320 S 17th St, Wilmington</string>
+		<key>Phone</key>
+		<string>1(910)796-8881</string>
+		<key>Website</key>
+		<string>https://hamptoninn3.hilton.com/en/hotels/north-carolina/hampton-inn-wilmington-medical-park-ILMMDHX/index.html</string>
+		<key>Advantages</key>
+		<string>Free Wi-Fi Free Breakfast</string>
+		<key>Latitude</key>
+		<string>34.1994701</string>
+		<key>Longitude</key>
+		<string>-77.923212</string>
+		<key>CellImage</key>
+		<string>Hampton Medical Park cell.jpg</string>
+		<key>Image</key>
+		<string>Hampton Medical Park.jpg</string>
+	</dict>
+</array>
+</plist>

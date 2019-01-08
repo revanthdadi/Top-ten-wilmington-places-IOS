@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Aquarium at Fort Fisher</string>
+		<key>SubName</key>
+		<string>Aquarium Fort Fisher</string>
+		<key>Description</key>
+		<string>Exhibits &amp; programs on area marine life</string>
+		<key>Fare</key>
+		<string>Adults - $12.95 Seniors - $11.95 Children - $10.95</string>
+		<key>Phone</key>
+		<string>1(910)772-0500</string>
+		<key>Address</key>
+		<string>900 Loggerhead Rd, Kure Beach</string>
+		<key>Visitors</key>
+		<string>484,118 Annual Visitors</string>
+		<key>Timing</key>
+		<string>All Week from 9 am - 5 pm</string>
+		<key>Website</key>
+		<string>https://www.yelp.com/biz/the-north-carolina-aquarium-at-fort-fisher-kure-beach-2?osq=aquarium+at+fort+fisher</string>
+		<key>Latitude</key>
+		<string>33.9626204</string>
+		<key>Longitude</key>
+		<string>-77.9262301</string>
+		<key>CellImage</key>
+		<string>Aquarium at Fort Fisher cell.jpg</string>
+		<key>Image</key>
+		<string>Aquarium at Fort Fisher.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Masonboro Island State Natural Area</string>
+		<key>SubName</key>
+		<string>Masonboro Island</string>
+		<key>Description</key>
+		<string>Coastal preserve accessible by boat</string>
+		<key>Fare</key>
+		<string>Free</string>
+		<key>Phone</key>
+		<string>1(301)713-3066</string>
+		<key>Address</key>
+		<string>Wilmington, NC 28409</string>
+		<key>Visitors</key>
+		<string>472,471 Annual Visitors</string>
+		<key>Timing</key>
+		<string>All day</string>
+		<key>Website</key>
+		<string>https://marineprotectedareas.noaa.gov/</string>
+		<key>Latitude</key>
+		<string>34.123028</string>
+		<key>Longitude</key>
+		<string>-77.851817</string>
+		<key>CellImage</key>
+		<string>Masonboro Island cell.jpg</string>
+		<key>Image</key>
+		<string>Masonboro Island.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>USS North Carolina</string>
+		<key>SubName</key>
+		<string>USS North Carolina</string>
+		<key>Description</key>
+		<string>Museum on a WWII battleship</string>
+		<key>Fare</key>
+		<string>Adults - $14 Seniors - $10</string>
+		<key>Phone</key>
+		<string>1(910)399-9100</string>
+		<key>Address</key>
+		<string>1 Battleship Rd NE, Wilmington</string>
+		<key>Visitors</key>
+		<string>220,000 Annual Visitors</string>
+		<key>Timing</key>
+		<string>All Week from 8 am - 5 pm</string>
+		<key>Website</key>
+		<string>https://www.yelp.com/biz/uss-north-carolina-battleship-memorial-wilmington</string>
+		<key>Latitude</key>
+		<string>34.2365361</string>
+		<key>Longitude</key>
+		<string>-77.9544641</string>
+		<key>CellImage</key>
+		<string>USS North Carolina cell.jpg</string>
+		<key>Image</key>
+		<string>USS North Carolina.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jungle Rapids Family Fun Park</string>
+		<key>SubName</key>
+		<string>Fun Park</string>
+		<key>Description</key>
+		<string>Water park, go-karts, laser tag and more</string>
+		<key>Fare</key>
+		<string>Season pass - $160 Double Up Wristband - $17.99</string>
+		<key>Phone</key>
+		<string>1(910)791-0666</string>
+		<key>Address</key>
+		<string>5320 Oleander Dr, Wilmington</string>
+		<key>Visitors</key>
+		<string>142,000 Annual Visitors</string>
+		<key>Timing</key>
+		<string>Weekdays 10 am - 10 pm, weekends 10 am - 12 am</string>
+		<key>Website</key>
+		<string>https://www.yelp.com/biz/jungle-rapids-family-fun-park-wilmington</string>
+		<key>Latitude</key>
+		<string>34.2072858</string>
+		<key>Longitude</key>
+		<string>-77.86316</string>
+		<key>CellImage</key>
+		<string>Jungle Rapids cell.jpg</string>
+		<key>Image</key>
+		<string>Jungle Rapids.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Airlie Gardens</string>
+		<key>SubName</key>
+		<string>Airlie Gardens</string>
+		<key>Description</key>
+		<string>Massive gardens with flowers and lakes</string>
+		<key>Fare</key>
+		<string>Adults - $9 Children - $3 Under 4 - Free</string>
+		<key>Phone</key>
+		<string>1(910)798-7700</string>
+		<key>Address</key>
+		<string>300 Airlie Rd, Wilmington</string>
+		<key>Visitors</key>
+		<string>130,000 Annual Visitors</string>
+		<key>Timing</key>
+		<string>All Week from 9 am - 5 pm</string>
+		<key>Website</key>
+		<string>https://www.yelp.com/biz/airlie-gardens-wilmington?osq=arlie+garden</string>
+		<key>Latitude</key>
+		<string>34.2181523</string>
+		<key>Longitude</key>
+		<string>-77.8304006</string>
+		<key>CellImage</key>
+		<string>Airlie Gardens cell.jpg</string>
+		<key>Image</key>
+		<string>Airlie Gardens.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Bellamy Mansion Museum</string>
+		<key>SubName</key>
+		<string>B M Museum</string>
+		<key>Description</key>
+		<string>House, garden &amp; slave quarters tours</string>
+		<key>Fare</key>
+		<string>Adults - $12 Seniors - $10 Children - Free</string>
+		<key>Phone</key>
+		<string>1(910)251-3700</string>
+		<key>Address</key>
+		<string>503 Market St, Wilmington</string>
+		<key>Visitors</key>
+		<string>120,000 Annual Visitors</string>
+		<key>Timing</key>
+		<string>All Week 10 am to 5 pm</string>
+		<key>Website</key>
+		<string>https://www.bellamymansion.org/</string>
+		<key>Latitude</key>
+		<string>34.2361212</string>
+		<key>Longitude</key>
+		<string>-77.9430654</string>
+		<key>CellImage</key>
+		<string>Bellamy Mansion cell.jpg</string>
+		<key>Image</key>
+		<string>Bellamy Mansion.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Cape fear museum of History and Science</string>
+		<key>SubName</key>
+		<string>Cape fear museum</string>
+		<key>Description</key>
+		<string>Regional historic &amp; scientific exhibits</string>
+		<key>Fare</key>
+		<string>Adults - $8, Seniors - $7, Youth - $5</string>
+		<key>Phone</key>
+		<string>1(910)798-4370</string>
+		<key>Address</key>
+		<string>814 Market St. Wilmington</string>
+		<key>Visitors</key>
+		<string>100,000 Annual Visitors</string>
+		<key>Timing</key>
+		<string>All week 9 AM - 5 PM except Monday closed</string>
+		<key>Website</key>
+		<string>https://www.capefearmuseum.com/</string>
+		<key>Latitude</key>
+		<string>34.2359991</string>
+		<key>Longitude</key>
+		<string>-77.9390483</string>
+		<key>CellImage</key>
+		<string>Cape fear museum cell.jpg</string>
+		<key>Image</key>
+		<string>Cape fear museum.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Wrightsville Beach Museum of History</string>
+		<key>SubName</key>
+		<string>W Beach Museum</string>
+		<key>Description</key>
+		<string>Exhibits &amp; events on local culture</string>
+		<key>Fare</key>
+		<string>Free</string>
+		<key>Phone</key>
+		<string>1(910)256-2569</string>
+		<key>Address</key>
+		<string>303 W Salisbury St, Wrightsville Beach</string>
+		<key>Visitors</key>
+		<string>30,000 Annual Visitors</string>
+		<key>Timing</key>
+		<string>All week 10 AM - 4 PM except Monday closed</string>
+		<key>Website</key>
+		<string>https://www.yelp.com/biz/wrightsville-beach-museum-of-history-wrightsville-beach</string>
+		<key>Latitude</key>
+		<string>34.2166932</string>
+		<key>Longitude</key>
+		<string>-77.8031975</string>
+		<key>CellImage</key>
+		<string>Wrightsville Beach Museum cell.jpg</string>
+		<key>Image</key>
+		<string>Wrightsville Beach Museum.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Wilmington Railroad Museum</string>
+		<key>SubName</key>
+		<string>W R Museum</string>
+		<key>Description</key>
+		<string>Place with exhibits on railroad history</string>
+		<key>Fare</key>
+		<string>Adults - $9.50, Seniors - $8.50, children - $5.50</string>
+		<key>Phone</key>
+		<string>1(910)763-2634</string>
+		<key>Address</key>
+		<string>3316, 505 Nutt St# 6, Wilmington</string>
+		<key>Visitors</key>
+		<string>25,000 Annual Visitors</string>
+		<key>Timing</key>
+		<string>All week 10 am to 5pm except Sunday 1 pm - 5 pm</string>
+		<key>Website</key>
+		<string>https://www.yelp.com/biz/wilmington-railroad-museum-wilmington</string>
+		<key>Latitude</key>
+		<string>34.2416526</string>
+		<key>Longitude</key>
+		<string>-77.950765</string>
+		<key>CellImage</key>
+		<string>Wilmington Railroad cell.jpg</string>
+		<key>Image</key>
+		<string>Wilmington Railroad.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>The Children’s Museum</string>
+		<key>SubName</key>
+		<string>Children’s Museum</string>
+		<key>Description</key>
+		<string>Hands-on exhibits for kids ages 1 to 10</string>
+		<key>Fare</key>
+		<string>Adults - $9.75, Seniors - $8.75</string>
+		<key>Phone</key>
+		<string>1(910)254-3534</string>
+		<key>Address</key>
+		<string>116 Orange St, Wilmington</string>
+		<key>Visitors</key>
+		<string>25,000 Annual Visitors</string>
+		<key>Timing</key>
+		<string>All week 9 AM - 5 PM except Monday closed</string>
+		<key>Website</key>
+		<string>https://www.playwilmington.org/</string>
+		<key>Latitude</key>
+		<string>34.2327658</string>
+		<key>Longitude</key>
+		<string>-77.9475763</string>
+		<key>CellImage</key>
+		<string>The Children’s Museum cell.jpg</string>
+		<key>Image</key>
+		<string>The Children’s Museum.jpg</string>
+	</dict>
+</array>
+</plist>
